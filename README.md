@@ -6,3 +6,5 @@ Data Source: https://data.ontario.ca/dataset/breakdown-of-covid-19-positive-hosp
 Data Name: Breakdown of COVID-19 positive hospital admissions 
 
 Date range: January 10, 2022 - February 15, 2024
+
+Downloaded: 2024-02-19
